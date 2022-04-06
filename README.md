@@ -2,4 +2,4 @@
 
 IT-1 ved Molde VGS
 
-**Her kommer mer snart**
+**Trenger du fortsatt hjelp, Håkon?**
