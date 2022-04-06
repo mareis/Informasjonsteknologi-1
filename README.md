@@ -2,4 +2,4 @@
 
 IT-1 ved Molde VGS
 
-**Trenger du fortsatt hjelp, Håkon?**
+**Det var Iver**
